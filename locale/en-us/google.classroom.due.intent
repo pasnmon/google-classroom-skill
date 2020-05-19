@@ -1,0 +1,5 @@
+which (google classroom | classroom) tasks are due ({day} | (on| ) {month} {day} ({year}| )| (on|) {day} {month} ({year}| ))
+which (google classroom | classroom) tasks are due (on|) {month} (the|) {day} ({year}| )
+which (google classroom | classroom) tasks are due (on|) {date} ({year}| )
+what are ({day} | {month} | {day_num}) (the | of | ) {day_num| month |} (of | ) ({year}|) (on | ) {day_num} {month (#### | ## ## | )}) (google classroom | classroom) tasks
+what are the (upcoming | pending | ) (google classroom | classroom) tasks of (the | ) ({day_num} (of | ) {month} | {month} (the | ) {day_num})
