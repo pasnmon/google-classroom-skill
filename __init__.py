@@ -55,7 +55,7 @@ def build_date(day):
     :return date object
     """
     if day == "tomorrow":
-        return  date.today() + timedelta(days=1)
+        return date.today() + timedelta(days=1)
     if day == "yesterday":
         return date.today() - timedelta(days=1)
     return date.today()

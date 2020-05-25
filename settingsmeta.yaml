@@ -8,4 +8,3 @@ skillMetadata:
         - name: GoogleClassroomAPI
           type: oauth
           value: 1
-    - name:
